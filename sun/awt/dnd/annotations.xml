@@ -1,0 +1,8 @@
+<root>
+    <item name='sun.awt.dnd.SunDropTargetContextPeer.EventDispatcher'>
+        <annotation name='java.lang.annotation.Deprecated'/>
+    </item>
+    <item name='sun.awt.dnd.SunDropTargetContextPeer.EventDispatcher handler'>
+      <annotation name='java.lang.annotation.Deprecated'/>
+    </item>
+</root>
